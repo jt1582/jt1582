@@ -3,6 +3,6 @@ Hello, my name is James, and my journey into the world of software development s
 
 Throughout my academic career at University of llinois at Chicago, I’ve dived deep into various coding languages and projects, becoming proficient in C/C++, Java, and building motion graphic designs in Adobe After Effects. 
 
-Looking ahead, I’m eager to expand my expertise further by exploring game development and am always excited about learning skills and applying them in creative ways.
+Looking ahead, I’m eager to expand my expertise further by exploring game development and dedicating myself to learning new skills and applying them in creative ways.
 
 Coursework: Data Structures, Program Design II, Programming Practicum
